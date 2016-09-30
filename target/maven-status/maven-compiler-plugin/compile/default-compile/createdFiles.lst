@@ -1,0 +1,15 @@
+facade\EntityHandler.class
+entity\City_.class
+rest\CountryResource.class
+entity\CountrylanguagePK.class
+entity\Country_.class
+entity\City.class
+jsonconverter\IJSONConverter.class
+entity\Countrylanguage.class
+jsonconverter\JSONConverter.class
+entity\Countrylanguage_.class
+rest\ApplicationConfig.class
+facade\IEntityHandler.class
+rest\CityResource.class
+entity\CountrylanguagePK_.class
+entity\Country.class
